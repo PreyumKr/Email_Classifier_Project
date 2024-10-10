@@ -42,7 +42,7 @@ model = AutoModelForSequenceClassification.from_pretrained("bert-base-uncased", 
 
 # Define training arguments
 training_args = TrainingArguments(
-    output_dir="./results_new",
+    output_dir="./results",
     learning_rate=2e-5,
     per_device_train_batch_size=16,
     num_train_epochs=100,
@@ -59,3 +59,9 @@ trainer = Trainer(
 
 # Train the model
 trainer.train()
+
+# Evaluate the model
+results = trainer.evaluate()
+
+# Save the model
+model.save_pretrained("./email_classification_model_bert100")

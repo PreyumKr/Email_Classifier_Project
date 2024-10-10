@@ -1,0 +1,1150 @@
+[
+    {
+        "text": "Dear HOD, I wanted to ask if the classes will resume as per the old schedule after the holidays, or will there be any changes?",
+        "label": "general"
+    },
+    {
+        "text": "Hello Sir, I have been working on my research about climate change impacts on agriculture, and I would appreciate your feedback on the findings from our last field survey.",
+        "label": "research"
+    },
+    {
+        "text": "Dear HOD, I accidentally sent my personal bank details to the wrong department email. Could you assist me in resolving this issue and ensuring my details remain secure?",
+        "label": "sensitive"
+    },
+    {
+        "text": "Hi Professor, I'm currently writing a paper on machine learning algorithms, and I would like to include some of the research conducted by your team in the past year. Could you help me get access to the data?",
+        "label": "research"
+    },
+    {
+        "text": "Dear HOD, could you clarify if the college will remain closed on national holidays next month, or are there any special classes scheduled?",
+        "label": "general"
+    },
+    {
+        "text": "Dear Sir, I noticed some unusual activity in my student portal, and it seems my account details may have been accessed by someone else. Could you please look into this matter urgently?",
+        "label": "sensitive"
+    },
+    {
+        "text": "Hello, I would like to request details on the recent research project led by Dr. Sharma. I believe the results could be highly relevant to my dissertation on renewable energy technologies.",
+        "label": "research"
+    },
+    {
+        "text": "Dear HOD, can you confirm the fee payment deadline for this semester? I am worried about late payment penalties since I haven't received the invoice yet.",
+        "label": "general"
+    },
+    {
+        "text": "Hi Professor, the deep learning model we have been working on is showing promising results in predicting crop yields. Could we discuss the next steps in refining the model further?",
+        "label": "research"
+    },
+    {
+        "text": "Dear Sir, I'm writing to inform you that my student loan payment details have changed, and I need to update them in the college system to avoid any disruptions. Can you guide me through the process?",
+        "label": "sensitive"
+    },
+    {
+        "text": "Dear HOD, I'm interested in conducting research on the impact of climate change on coastal ecosystems. Could you recommend potential research mentors or projects?",
+        "label": "research"
+    },
+    {
+        "text": "Dear HOD, I'm planning to write my dissertation on renewable energy sources. Could you suggest potential research topics or advisors?",
+        "label": "research"
+    },
+    {
+        "text": "Dear HOD, I'm interested in collaborating with a faculty member on a research project related to artificial intelligence. Could you help me connect with potential mentors?",
+        "label": "research"
+    },
+    {
+        "text": "Dear HOD, I'm facing challenges with my research data analysis. Could you recommend any software or tools that might be helpful?",
+        "label": "research"
+    },
+    {
+        "text": "Dear HOD, I'm interested in applying for a research grant to fund my research project. Could you provide guidance on the application process?",
+        "label": "research"
+    },
+    {
+        "text": "Dear HOD, I'm interested in attending a research conference. Could you help me identify relevant conferences and potential funding opportunities?",
+        "label": "research"
+    },
+    {
+        "text": "Dear HOD, I'm interested in publishing my research findings in a peer-reviewed journal. Could you provide guidance on the submission process?",
+        "label": "research"
+    },
+    {
+        "text": "Dear HOD, I'm interested in conducting research on the social impact of technology. Could you recommend relevant courses or workshops?",
+        "label": "research"
+    },
+    {
+        "text": "Dear HOD, I'm interested in collaborating with a faculty member on a research project related to public health. Could you help me connect with potential mentors?",
+        "label": "research"
+    },
+    {
+        "text": "Dear HOD, I'm facing challenges with my research data analysis. Could you recommend any software or tools that might be helpful?",
+        "label": "research"
+    },
+    {
+        "text": "Dear HOD, I'm interested in applying for a research grant to fund my research project. Could you provide guidance on the application process?",
+        "label": "research"
+    },
+    {
+        "text": "Dear HOD, I'm interested in attending a research conference. Could you help me identify relevant conferences and potential funding opportunities?",
+        "label": "research"
+    },
+    {
+        "text": "Dear HOD, I'm interested in publishing my research findings in a peer-reviewed journal. Could you provide guidance on the submission process?",
+        "label": "research"
+    },
+    {
+        "text": "Dear HOD, I'm interested in conducting research on the social impact of technology. Could you recommend relevant courses or workshops?",
+        "label": "research"
+    },
+    {
+        "text": "Dear HOD, I'm interested in collaborating with a faculty member on a research project related to public health. Could you help me connect with potential mentors?",
+        "label": "research"
+    },
+    {
+        "text": "Dear HOD, I'm facing challenges with my research data analysis. Could you recommend any software or tools that might be helpful?",
+        "label": "research"
+    },
+    {
+        "text": "Dear HOD, I'm interested in applying for a research grant to fund my research project. Could you provide guidance on the application process?",
+        "label": "research"
+    },
+    {
+        "text": "Dear HOD, I'm interested in attending a research conference. Could you help me identify relevant conferences and potential funding opportunities?",
+        "label": "research"
+    },
+    {
+        "text": "Dear HOD, I'm interested in publishing my research findings in a peer-reviewed journal. Could you provide guidance on the submission process?",
+        "label": "research"
+    },
+    {
+        "text": "Dear HOD, I'm interested in conducting research on the social impact of technology. Could you recommend relevant courses or workshops?",
+        "label": "research"
+    },
+    {
+        "text": "Dear HOD, I'm interested in collaborating with a faculty member on a research project related to public health. Could you help me connect with potential mentors?",
+        "label": "research"
+    },
+    {
+        "text": "Dear HOD, I'm facing challenges with my research data analysis. Could you recommend any software or tools that might be helpful?",
+        "label": "research"
+    },
+    {
+        "text": "Dear HOD, I'm interested in applying for a research grant to fund my research project. Could you provide guidance on the application process?",
+        "label": "research"
+    },
+    {
+        "text": "Dear HOD, I'm interested in attending a research conference. Could you help me identify relevant conferences and potential funding opportunities?",
+        "label": "research"
+    },
+    {
+        "text": "Dear HOD, could you please inform us about the upcoming guest lectures and their topics?",
+        "label": "general"
+    },
+    {
+        "text": "Is there any update on the availability of the college library during the upcoming semester break?",
+        "label": "general"
+    },
+    {
+        "text": "Dear HOD, I would like to know the procedure for applying for a leave of absence due to a family emergency.",
+        "label": "general"
+    },
+    {
+        "text": "Could you clarify the eligibility criteria for the scholarship offered by the college?",
+        "label": "general"
+    },
+    {
+        "text": "Dear HOD, I'm interested in joining the college's sports team. What are the requirements and selection process?",
+        "label": "general"
+    },
+    {
+        "text": "Could you please provide information about the extracurricular activities offered by the college?",
+        "label": "general"
+    },
+    {
+        "text": "Dear HOD, I'm facing difficulties with my course material. Are there any additional resources or tutoring options available?",
+        "label": "general"
+    },
+    {
+        "text": "Dear HOD, I would like to know the dress code for attending formal college events.",
+        "label": "general"
+    },
+    {
+        "text": "Could you please provide a list of the faculty members and their areas of expertise?",
+        "label": "general"
+    },
+    {
+        "text": "Dear HOD, I'm interested in pursuing a minor in [subject]. What are the prerequisites and requirements?",
+        "label": "general"
+    },
+    {
+        "text": "Dear HOD, I have a query regarding the hostel accommodation. Could you please provide details about the available rooms and amenities?",
+        "label": "general"
+    },
+    {
+        "text": "Dear HOD, I'm planning to participate in an international conference. Can you guide me on the process of applying for a travel grant?",
+        "label": "general"
+    },
+    {
+        "text": "Dear HOD, could you please inform us about the upcoming career counseling sessions?",
+        "label": "general"
+    },
+    {
+        "text": "Dear HOD, I would like to know the procedure for changing my major or minor.",
+        "label": "general"
+    },
+    {
+        "text": "Dear HOD, I'm interested in pursuing a dual degree program. Could you please provide information about the available options?",
+        "label": "general"
+    },
+    {
+        "text": "Dear HOD, I have a query about the college's alumni network. How can I connect with alumni for networking and mentorship?",
+        "label": "general"
+    },
+    {
+        "text": "Dear HOD, could you please clarify the policy on using personal electronic devices during classes?",
+        "label": "general"
+    },
+    {
+        "text": "Dear HOD, I'm interested in starting a student club. What are the steps involved in getting approval?",
+        "label": "general"
+    },
+    {
+        "text": "Dear HOD, I would like to know the procedure for requesting a transcript of my academic records.",
+        "label": "general"
+    },
+    {
+        "text": "Dear HOD, could you please inform us about the upcoming guest lectures and their topics?",
+        "label": "general"
+    },
+    {
+        "text": "Dear HOD, I'm interested in pursuing a minor in [subject]. What are the prerequisites and requirements?",
+        "label": "general"
+    },
+    {
+        "text": "Dear HOD, I have a query regarding the hostel accommodation. Could you please provide details about the available rooms and amenities?",
+        "label": "general"
+    },
+    {
+        "text": "Dear HOD, I'm planning to participate in an international conference. Can you guide me on the process of applying for a travel grant?",
+        "label": "general"
+    },
+    {
+        "text": "Dear HOD, could you please inform us about the upcoming career counseling sessions?",
+        "label": "general"
+    },
+    {
+        "text": "Dear HOD, I would like to know the procedure for changing my major or minor.",
+        "label": "general"
+    },
+    {
+        "text": "Dear HOD, I'm interested in starting a student club. What are the steps involved in getting approval?",
+        "label": "general"
+    },
+    {
+        "text": "Dear HOD, I would like to know the procedure for requesting a transcript of my academic records.",
+        "label": "general"
+    },
+    {
+        "text": "Dear HOD, could you please inform us about the upcoming guest lectures and their topics?",
+        "label": "general"
+    },
+    {
+        "text": "Dear HOD, I'm interested in pursuing a minor in [subject]. What are the prerequisites and requirements?",
+        "label": "general"
+    },
+    {
+        "text": "Dear HOD, I have a query regarding the hostel accommodation. Could you please provide details about the available rooms and amenities?",
+        "label": "general"
+    },
+    {
+        "text": "Dear HOD, I'm planning to participate in an international conference. Can you guide me on the process of applying for a travel grant?",
+        "label": "general"
+    },
+    {
+        "text": "Dear HOD, could you please inform us about the upcoming career counseling sessions?",
+        "label": "general"
+    },
+    {
+        "text": "Dear HOD, I would like to know the procedure for changing my major or minor.",
+        "label": "general"
+    },
+    {
+        "text": "Dear HOD, I'm interested in starting a student club. What are the steps involved in getting approval?",
+        "label": "general"
+    },
+    {
+        "text": "Dear HOD, I would like to know the procedure for requesting a transcript of my academic records.",
+        "label": "general"
+    },
+    {
+        "text": "Dear HOD, could you please inform us about the upcoming guest lectures and their topics?",
+        "label": "general"
+    },
+    {
+        "text": "Dear HOD, I'm interested in pursuing a minor in [subject]. What are the prerequisites and requirements?",
+        "label": "general"
+    },
+    {
+        "text": "Dear HOD, I have a query regarding the hostel accommodation. Could you please provide details about the available rooms and amenities?",
+        "label": "general"
+    },
+    {
+        "text": "Dear HOD, I'm planning to participate in an international conference. Can you guide me on the process of applying for a travel grant?",
+        "label": "general"
+    },
+    {
+        "text": "Dear HOD, could you please inform us about the upcoming career counseling sessions?",
+        "label": "general"
+    },
+    {
+        "text": "Dear HOD, I would like to know the procedure for changing my major or minor.",
+        "label": "general"
+    },
+    {
+        "text": "Dear HOD, I'm interested in starting a student club. What are the steps involved in getting approval?",
+        "label": "general"
+    },
+    {
+        "text": "Dear HOD, I would like to know the procedure for requesting a transcript of my academic records.",
+        "label": "general"
+    },
+    {
+        "text": "Dear HOD, could you please inform us about the upcoming guest lectures and their topics?",
+        "label": "general"
+    },
+    {
+        "text": "Dear HOD, I'm interested in pursuing a minor in [subject]. What are the prerequisites and requirements?",
+        "label": "general"
+    },
+    {
+        "text": "Dear HOD, I have a query regarding the hostel accommodation. Could you please provide details about the available rooms and amenities?",
+        "label": "general"
+    },
+    {
+        "text": "Dear HOD, I'm planning to participate in an international conference. Can you guide me on the process of applying for a travel grant?",
+        "label": "general"
+    },
+    {
+        "text": "Dear HOD, could you please inform us about the upcoming career counseling sessions?",
+        "label": "general"
+    },
+    {
+        "text": "Dear HOD, I would like to know the procedure for changing my major or minor.",
+        "label": "general"
+    },
+    {
+        "text": "Dear HOD, I'm interested in starting a student club. What are the steps involved in getting approval?",
+        "label": "general"
+    },
+    {
+        "text": "Dear HOD, I noticed some suspicious activity on my student portal, and I believe my account may have been compromised. Could you please investigate this matter urgently?",
+        "label": "sensitive"
+    },
+    {
+        "text": "Dear HOD, I'm concerned about my personal safety on campus. Could you please inform me about the security measures in place?",
+        "label": "sensitive"
+    },
+    {
+        "text": "Dear HOD, I'm facing financial difficulties and need to request a temporary extension for my tuition fee payment. Could you please guide me through the process?",
+        "label": "sensitive"
+    },
+    {
+        "text": "Dear HOD, I'm experiencing harassment from a fellow student. Could you please provide information on the college's policies and procedures for handling such incidents?",
+        "label": "sensitive"
+    },
+    {
+        "text": "Dear HOD, I'm concerned about my mental health and would like to request a leave of absence. Could you please guide me through the process and provide information on available support resources?",
+        "label": "sensitive"
+    },
+    {
+        "text": "Dear HOD, I've lost my student ID card. Could you please assist me in getting a replacement?",
+        "label": "sensitive"
+    },
+    {
+        "text": "Dear HOD, I've had a change in my address. Could you please update my information in the college records?",
+        "label": "sensitive"
+    },
+    {
+        "text": "Dear HOD, I'm facing issues with my academic performance. Could you please connect me with a counselor to discuss my options?",
+        "label": "sensitive"
+    },
+    {
+        "text": "Dear HOD, I've been involved in an accident on campus. Could you please provide information on the college's insurance coverage?",
+        "label": "sensitive"
+    },
+    {
+        "text": "Dear HOD, I'm concerned about the safety of my belongings in the college dorms. Could you please provide information on the security measures in place?",
+        "label": "sensitive"
+    },
+    {
+        "text": "Dear HOD, I'm facing financial difficulties and need to request a temporary extension for my tuition fee payment. Could you please guide me through the process?",
+        "label": "sensitive"
+    },
+    {
+        "text": "Dear HOD, I'm experiencing harassment from a fellow student. Could you please provide information on the college's policies and procedures for handling such incidents?",
+        "label": "sensitive"
+    },
+    {
+        "text": "Dear HOD, I'm concerned about my mental health and would like to request a leave of absence. Could you please guide me through the process and provide information on available support resources?",
+        "label": "sensitive"
+    },
+    {
+        "text": "Dear HOD, I've lost my student ID card. Could you please assist me in getting a replacement?",
+        "label": "sensitive"
+    },
+    {
+        "text": "Dear HOD, I've had a change in my address. Could you please update my information in the college records?",
+        "label": "sensitive"
+    },
+    {
+        "text": "Dear HOD, I'm facing issues with my academic performance. Could you please connect me with a counselor to discuss my options?",
+        "label": "sensitive"
+    },
+    {
+        "text": "Dear HOD, I've been involved in an accident on campus. Could you please provide information on the college's insurance coverage?",
+        "label": "sensitive"
+    },
+    {
+        "text": "Dear HOD, I'm concerned about the safety of my belongings in the college dorms. Could you please provide information on the security measures in place?",
+        "label": "sensitive"
+    },
+    {
+        "text": "Dear HOD, I'm facing financial difficulties and need to request a temporary extension for my tuition fee payment. Could you please guide me through the process?",
+        "label": "sensitive"
+    },
+    {
+        "text": "Dear HOD, I'm experiencing harassment from a fellow student. Could you please provide information on the college's policies and procedures for handling such incidents?",
+        "label": "sensitive"
+    },
+    {
+        "text": "Dear HOD, I'm concerned about my mental health and would like to request a leave of absence. Could you please guide me through the process and provide information on available support resources?",
+        "label": "sensitive"
+    },
+    {
+        "text": "Dear HOD, I've lost my student ID card. Could you please assist me in getting a replacement?",
+        "label": "sensitive"
+    },
+    {
+        "text": "Dear HOD, I've had a change in my address. Could you please update my information in the college records?",
+        "label": "sensitive"
+    },
+    {
+        "text": "Dear HOD, I'm facing issues with my academic performance. Could you please connect me with a counselor to discuss my options?",
+        "label": "sensitive"
+    },
+    {
+        "text": "Dear HOD, I've been involved in an accident on campus. Could you please provide information on the college's insurance coverage?",
+        "label": "sensitive"
+    },
+    {
+        "text": "Dear HOD, could you please inform us about the upcoming guest lectures and their topics?",
+        "label": "general"
+    },
+    {
+        "text": "Is there any update on the availability of the college library during the upcoming semester break?",
+        "label": "general"
+    },
+    {
+        "text": "Dear HOD, I would like to know the procedure for applying for a leave of absence due to a family emergency.",
+        "label": "general"
+    },
+    {
+        "text": "Could you clarify the eligibility criteria for the scholarship offered by the college?",
+        "label": "general"
+    },
+    {
+        "text": "Dear HOD, I'm interested in joining the college's sports team. What are the requirements and selection process?",
+        "label": "general"
+    },
+    {
+        "text": "Could you please provide information about the extracurricular activities offered by the college?",
+        "label": "general"
+    },
+    {
+        "text": "Dear HOD, I'm facing difficulties with my course material. Are there any additional resources or tutoring options available?",
+        "label": "general"
+    },
+    {
+        "text": "Dear HOD, I would like to know the dress code for attending formal college events.",
+        "label": "general"
+    },
+    {
+        "text": "Could you please provide a list of the faculty members and their areas of expertise?",
+        "label": "general"
+    },
+    {
+        "text": "Dear HOD, I'm interested in pursuing a minor in [subject]. What are the prerequisites and requirements?",
+        "label": "general"
+    },
+    {
+        "text": "Dear HOD, I have a query regarding the hostel accommodation. Could you please provide details about the available rooms and amenities?",
+        "label": "general"
+    },
+    {
+        "text": "Dear HOD, I'm planning to participate in an international conference. Can you guide me on the process of applying for a travel grant?",
+        "label": "general"
+    },
+    {
+        "text": "Dear HOD, could you please inform us about the upcoming career counseling sessions?",
+        "label": "general"
+    },
+    {
+        "text": "Dear HOD, I would like to know the procedure for changing my major or minor.",
+        "label": "general"
+    },
+    {
+        "text": "Dear HOD, I'm interested in pursuing a dual degree program. Could you please provide information about the available options?",
+        "label": "general"
+    },
+    {
+        "text": "Dear HOD, I have a query about the college's alumni network. How can I connect with alumni for networking and mentorship?",
+        "label": "general"
+    },
+    {
+        "text": "Dear HOD, could you please clarify the policy on using personal electronic devices during classes?",
+        "label": "general"
+    },
+    {
+        "text": "Dear HOD, I'm interested in starting a student club. What are the steps involved in getting approval?",
+        "label": "general"
+    },
+    {
+        "text": "Dear HOD, I would like to know the procedure for requesting a transcript of my academic records.",
+        "label": "general"
+    },
+    {
+        "text": "Dear HOD, could you please inform us about the upcoming guest lectures and their topics?",
+        "label": "general"
+    },
+    {
+        "text": "Dear HOD, I'm interested in pursuing a minor in [subject]. What are the prerequisites and requirements?",
+        "label": "general"
+    },
+    {
+        "text": "Dear HOD, I have a query regarding the hostel accommodation. Could you please provide details about the available rooms and amenities?",
+        "label": "general"
+    },
+    {
+        "text": "Dear HOD, I'm planning to participate in an international conference. Can you guide me on the process of applying for a travel grant?",
+        "label": "general"
+    },
+    {
+        "text": "Dear HOD, could you please inform us about the upcoming career counseling sessions?",
+        "label": "general"
+    },
+    {
+        "text": "Dear HOD, I would like to know the procedure for changing my major or minor.",
+        "label": "general"
+    },
+    {
+        "text": "Dear HOD, I'm interested in starting a student club. What are the steps involved in getting approval?",
+        "label": "general"
+    },
+    {
+        "text": "Dear HOD, I would like to know the procedure for requesting a transcript of my academic records.",
+        "label": "general"
+    },
+    {
+        "text": "Dear HOD, could you please inform us about the upcoming guest lectures and their topics?",
+        "label": "general"
+    },
+    {
+        "text": "Dear HOD, I'm interested in pursuing a minor in [subject]. What are the prerequisites and requirements?",
+        "label": "general"
+    },
+    {
+        "text": "Dear HOD, I have a query regarding the hostel accommodation. Could you please provide details about the available rooms and amenities?",
+        "label": "general"
+    },
+    {
+        "text": "Dear HOD, I'm planning to participate in an international conference. Can you guide me on the process of applying for a travel grant?",
+        "label": "general"
+    },
+    {
+        "text": "Dear HOD, could you please inform us about the upcoming career counseling sessions?",
+        "label": "general"
+    },
+    {
+        "text": "Dear HOD, I would like to know the procedure for changing my major or minor.",
+        "label": "general"
+    },
+    {
+        "text": "Dear HOD, I'm interested in starting a student club. What are the steps involved in getting approval?",
+        "label": "general"
+    },
+    {
+        "text": "Dear HOD, I would like to know the procedure for requesting a transcript of my academic records.",
+        "label": "general"
+    },
+    {
+        "text": "Dear HOD, could you please inform us about the upcoming guest lectures and their topics?",
+        "label": "general"
+    },
+    {
+        "text": "Dear HOD, I'm interested in pursuing a minor in [subject]. What are the prerequisites and requirements?",
+        "label": "general"
+    },
+    {
+        "text": "Dear HOD, I have a query regarding the hostel accommodation. Could you please provide details about the available rooms and amenities?",
+        "label": "general"
+    },
+    {
+        "text": "Dear HOD, I'm planning to participate in an international conference. Can you guide me on the process of applying for a travel grant?",
+        "label": "general"
+    },
+    {
+        "text": "Dear HOD, could you please inform us about the upcoming career counseling sessions?",
+        "label": "general"
+    },
+    {
+        "text": "Dear HOD, I would like to know the procedure for changing my major or minor.",
+        "label": "general"
+    },
+    {
+        "text": "Dear HOD, I'm interested in starting a student club. What are the steps involved in getting approval?",
+        "label": "general"
+    },
+    {
+        "text": "Dear HOD, I would like to know the procedure for requesting a transcript of my academic records.",
+        "label": "general"
+    },
+    {
+        "text": "Dear HOD, could you please inform us about the upcoming guest lectures and their topics?",
+        "label": "general"
+    },
+    {
+        "text": "Is there any update on the availability of the college library during the upcoming semester break?",
+        "label": "general"
+    },
+    {
+        "text": "Dear HOD, I would like to know the procedure for applying for a leave of absence due to a family emergency.",
+        "label": "general"
+    },
+    {
+        "text": "Could you clarify the eligibility criteria for the scholarship offered by the college?",
+        "label": "general"
+    },
+    {
+        "text": "Dear HOD, I'm interested in joining the college's sports team. What are the requirements and selection process?",
+        "label": "general"
+    },
+    {
+        "text": "Could you please provide information about the extracurricular activities offered by the college?",
+        "label": "general"
+    },
+    {
+        "text": "Dear HOD, I'm facing difficulties with my course material. Are there any additional resources or tutoring options available?",
+        "label": "general"
+    },
+    {
+        "text": "Dear HOD, I would like to know the dress code for attending formal college events.",
+        "label": "general"
+    },
+    {
+        "text": "Could you please provide a list of the faculty members and their areas of expertise?",
+        "label": "general"
+    },
+    {
+        "text": "Dear HOD, I'm interested in pursuing a minor in [subject]. What are the prerequisites and requirements?",
+        "label": "general"
+    },
+    {
+        "text": "Dear HOD, I have a query regarding the hostel accommodation. Could you please provide details about the available rooms and amenities?",
+        "label": "general"
+    },
+    {
+        "text": "Dear HOD, I'm planning to participate in an international conference. Can you guide me on the process of applying for a travel grant?",
+        "label": "general"
+    },
+    {
+        "text": "Dear HOD, could you please inform us about the upcoming career counseling sessions?",
+        "label": "general"
+    },
+    {
+        "text": "Dear HOD, I would like to know the procedure for changing my major or minor.",
+        "label": "general"
+    },
+    {
+        "text": "Dear HOD, I'm interested in pursuing a dual degree program. Could you please provide information about the available options?",
+        "label": "general"
+    },
+    {
+        "text": "Dear HOD, I have a query about the college's alumni network. How can I connect with alumni for networking and mentorship?",
+        "label": "general"
+    },
+    {
+        "text": "Dear HOD, could you please clarify the policy on using personal electronic devices during classes?",
+        "label": "general"
+    },
+    {
+        "text": "Dear HOD, I'm interested in starting a student club. What are the steps involved in getting approval?",
+        "label": "general"
+    },
+    {
+        "text": "Dear HOD, I would like to know the procedure for requesting a transcript of my academic records.",
+        "label": "general"
+    },
+    {
+        "text": "Dear HOD, could you please inform us about the upcoming guest lectures and their topics?",
+        "label": "general"
+    },
+    {
+        "text": "Dear HOD, I'm interested in pursuing a minor in [subject]. What are the prerequisites and requirements?",
+        "label": "general"
+    },
+    {
+        "text": "Dear HOD, I have a query regarding the hostel accommodation. Could you please provide details about the available rooms and amenities?",
+        "label": "general"
+    },
+    {
+        "text": "Dear HOD, I'm interested in conducting research on the impact of climate change on coastal ecosystems. Could you recommend potential research mentors or projects?",
+        "label": "research"
+    },
+    {
+        "text": "Dear HOD, I'm planning to write my dissertation on renewable energy sources. Could you suggest potential research topics or advisors?",
+        "label": "research"
+    },
+    {
+        "text": "Dear HOD, I'm interested in collaborating with a faculty member on a research project related to artificial intelligence. Could you help me connect with potential mentors?",
+        "label": "research"
+    },
+    {
+        "text": "Dear HOD, I'm facing challenges with my research data analysis. Could you recommend any software or tools that might be helpful?",
+        "label": "research"
+    },
+    {
+        "text": "Dear HOD, I'm interested in applying for a research grant to fund my research project. Could you provide guidance on the application process?",
+        "label": "research"
+    },
+    {
+        "text": "Dear HOD, I'm interested in attending a research conference. Could you help me identify relevant conferences and potential funding opportunities?",
+        "label": "research"
+    },
+    {
+        "text": "Dear HOD, I'm interested in publishing my research findings in a peer-reviewed journal. Could you provide guidance on the submission process?",
+        "label": "research"
+    },
+    {
+        "text": "Dear HOD, I'm interested in conducting research on the social impact of technology. Could you recommend relevant courses or workshops?",
+        "label": "research"
+    },
+    {
+        "text": "Dear HOD, I'm interested in collaborating with a faculty member on a research project related to public health. Could you help me connect with potential mentors?",
+        "label": "research"
+    },
+    {
+        "text": "Dear HOD, I'm facing challenges with my research data analysis. Could you recommend any software or tools that might be helpful?",
+        "label": "research"
+    },
+    {
+        "text": "Dear HOD, I'm interested in applying for a research grant to fund my research project. Could you provide guidance on the application process?",
+        "label": "research"
+    },
+    {
+        "text": "Dear HOD, I'm interested in attending a research conference. Could you help me identify relevant conferences and potential funding opportunities?",
+        "label": "research"
+    },
+    {
+        "text": "Dear HOD, I'm interested in publishing my research findings in a peer-reviewed journal. Could you provide guidance on the submission process?",
+        "label": "research"
+    },
+    {
+        "text": "Dear HOD, I'm interested in conducting research on the social impact of technology. Could you recommend relevant courses or workshops?",
+        "label": "research"
+    },
+    {
+        "text": "Dear HOD, I'm interested in collaborating with a faculty member on a research project related to public health. Could you help me connect with potential mentors?",
+        "label": "research"
+    },
+    {
+        "text": "Dear HOD, I'm facing challenges with my research data analysis. Could you recommend any software or tools that might be helpful?",
+        "label": "research"
+    },
+    {
+        "text": "Dear HOD, I'm interested in applying for a research grant to fund my research project. Could you provide guidance on the application process?",
+        "label": "research"
+    },
+    {
+        "text": "Dear HOD, I'm interested in attending a research conference. Could you help me identify relevant conferences and potential funding opportunities?",
+        "label": "research"
+    },
+    {
+        "text": "Dear HOD, I'm interested in publishing my research findings in a peer-reviewed journal. Could you provide guidance on the submission process?",
+        "label": "research"
+    },
+    {
+        "text": "Dear HOD, I'm interested in conducting research on the social impact of technology. Could you recommend relevant courses or workshops?",
+        "label": "research"
+    },
+    {
+        "text": "Dear HOD, I'm interested in collaborating with a faculty member on a research project related to public health. Could you help me connect with potential mentors?",
+        "label": "research"
+    },
+    {
+        "text": "Dear HOD, I'm facing challenges with my research data analysis. Could you recommend any software or tools that might be helpful?",
+        "label": "research"
+    },
+    {
+        "text": "Dear HOD, I'm interested in applying for a research grant to fund my research project. Could you provide guidance on the application process?",
+        "label": "research"
+    },
+    {
+        "text": "Dear HOD, I'm interested in attending a research conference. Could you help me identify relevant conferences and potential funding opportunities?",
+        "label": "research"
+    },
+    {
+        "text": "Dear HOD, I'm interested in publishing my research findings in a peer-reviewed journal. Could you provide guidance on the submission process?",
+        "label": "research"
+    },
+    {
+        "text": "Dear HOD, I'm interested in conducting research on the impact of climate change on agriculture. Could you recommend potential research mentors or projects?",
+        "label": "research"
+    },
+    {
+        "text": "Dear HOD, I'm planning to write my dissertation on renewable energy sources. Could you suggest potential research topics or advisors?",
+        "label": "research"
+    },
+    {
+        "text": "Dear HOD, I'm interested in collaborating with a faculty member on a research project related to artificial intelligence. Could you help me connect with potential mentors?",
+        "label": "research"
+    },
+    {
+        "text": "Dear HOD, I'm facing challenges with my research data analysis. Could you recommend any software or tools that might be helpful?",
+        "label": "research"
+    },
+    {
+        "text": "Dear HOD, I'm interested in applying for a research grant to fund my research project. Could you provide guidance on the application process?",
+        "label": "research"
+    },
+    {
+        "text": "Dear HOD, I'm interested in attending a research conference. Could you help me identify relevant conferences and potential funding opportunities?",
+        "label": "research"
+    },
+    {
+        "text": "Dear HOD, I'm interested in publishing my research findings in a peer-reviewed journal. Could you provide guidance on the submission process?",
+        "label": "research"
+    },
+    {
+        "text": "Dear HOD, I'm interested in conducting research on the social impact of technology. Could you recommend relevant courses or workshops?",
+        "label": "research"
+    },
+    {
+        "text": "Dear HOD, I'm interested in collaborating with a faculty member on a research project related to public health. Could you help me connect with potential mentors?",
+        "label": "research"
+    },
+    {
+        "text": "Dear HOD, I'm facing challenges with my research data analysis. Could you recommend any software or tools that might be helpful?",
+        "label": "research"
+    },
+    {
+        "text": "Dear HOD, I'm interested in applying for a research grant to fund my research project. Could you provide guidance on the application process?",
+        "label": "research"
+    },
+    {
+        "text": "Dear HOD, I'm interested in attending a research conference. Could you help me identify relevant conferences and potential funding opportunities?",
+        "label": "research"
+    },
+    {
+        "text": "Dear HOD, I'm interested in publishing my research findings in a peer-reviewed journal. Could you provide guidance on the submission process?",
+        "label": "research"
+    },
+    {
+        "text": "Dear HOD, I'm interested in conducting research on the social impact of technology. Could you recommend relevant courses or workshops?",
+        "label": "research"
+    },
+    {
+        "text": "Dear HOD, I'm interested in collaborating with a faculty member on a research project related to public health. Could you help me connect with potential mentors?",
+        "label": "research"
+    },
+    {
+        "text": "Dear HOD, I'm facing challenges with my research data analysis. Could you recommend any software or tools that might be helpful?",
+        "label": "research"
+    },
+    {
+        "text": "Dear HOD, I'm interested in applying for a research grant to fund my research project. Could you provide guidance on the application process?",
+        "label": "research"
+    },
+    {
+        "text": "Dear HOD, I'm interested in attending a research conference. Could you help me identify relevant conferences and potential funding opportunities?",
+        "label": "research"
+    },
+    {
+        "text": "Dear HOD, I'm interested in publishing my research findings in a peer-reviewed journal. Could you provide guidance on the submission process?",
+        "label": "research"
+    },
+    {
+        "text": "Dear HOD, I'm interested in conducting research on the impact of climate change on agriculture. Could you recommend potential research mentors or projects?",
+        "label": "research"
+    },
+    {
+        "text": "Dear HOD, I'm planning to write my dissertation on renewable energy sources. Could you suggest potential research topics or advisors?",
+        "label": "research"
+    },
+    {
+        "text": "Dear HOD, I'm interested in collaborating with a faculty member on a research project related to artificial intelligence. Could you help me connect with potential mentors?",
+        "label": "research"
+    },
+    {
+        "text": "Dear HOD, I'm facing challenges with my research data analysis. Could you recommend any software or tools that might be helpful?",
+        "label": "research"
+    },
+    {
+        "text": "Dear HOD, I'm interested in applying for a research grant to fund my research project. Could you provide guidance on the application process?",
+        "label": "research"
+    },
+    {
+        "text": "Dear HOD, I'm interested in attending a research conference. Could you help me identify relevant conferences and potential funding opportunities?",
+        "label": "research"
+    },
+    {
+        "text": "Dear HOD, I'm interested in publishing my research findings in a peer-reviewed journal. Could you provide guidance on the submission process?",
+        "label": "research"
+    },
+    {
+        "text": "Dear HOD, I'm interested in conducting research on the social impact of technology. Could you recommend relevant courses or workshops?",
+        "label": "research"
+    },
+    {
+        "text": "Dear HOD, I'm interested in collaborating with a faculty member on a research project related to public health. Could you help me connect with potential mentors?",
+        "label": "research"
+    },
+    {
+        "text": "Dear HOD, I'm facing challenges with my research data analysis. Could you recommend any software or tools that might be helpful?",
+        "label": "research"
+    },
+    {
+        "text": "Dear HOD, I'm interested in applying for a research grant to fund my research project. Could you provide guidance on the application process?",
+        "label": "research"
+    },
+    {
+        "text": "Dear HOD, I'm interested in attending a research conference. Could you help me identify relevant conferences and potential funding opportunities?",
+        "label": "research"
+    },
+    {
+        "text": "Dear HOD, I'm interested in publishing my research findings in a peer-reviewed journal. Could you provide guidance on the submission process?",
+        "label": "research"
+    },
+    {
+        "text": "Dear HOD, I'm interested in conducting research on the social impact of technology. Could you recommend relevant courses or workshops?",
+        "label": "research"
+    },
+    {
+        "text": "Dear HOD, I'm interested in collaborating with a faculty member on a research project related to public health. Could you help me connect with potential mentors?",
+        "label": "research"
+    },
+    {
+        "text": "Dear HOD, I noticed some suspicious activity on my student portal, and I believe my account may have been compromised. Could you please investigate this matter urgently?",
+        "label": "sensitive"
+    },
+    {
+        "text": "Dear HOD, I'm concerned about my personal safety on campus. Could you please inform me about the security measures in place?",
+        "label": "sensitive"
+    },
+    {
+        "text": "Dear HOD, I'm facing financial difficulties and need to request a temporary extension for my tuition fee payment. Could you please guide me through the process?",
+        "label": "sensitive"
+    },
+    {
+        "text": "Dear HOD, I'm experiencing harassment from a fellow student. Could you please provide information on the college's policies and procedures for handling such incidents?",
+        "label": "sensitive"
+    },
+    {
+        "text": "Dear HOD, I'm concerned about my mental health and would like to request a leave of absence. Could you please guide me through the process and provide information on available support resources?",
+        "label": "sensitive"
+    },
+    {
+        "text": "Dear HOD, I've lost my student ID card. Could you please assist me in getting a replacement?",
+        "label": "sensitive"
+    },
+    {
+        "text": "Dear HOD, I've had a change in my address. Could you please update my information in the college records?",
+        "label": "sensitive"
+    },
+    {
+        "text": "Dear HOD, I'm facing issues with my academic performance. Could you please connect me with a counselor to discuss my options?",
+        "label": "sensitive"
+    },
+    {
+        "text": "Dear HOD, I've been involved in an accident on campus. Could you please provide information on the college's insurance coverage?",
+        "label": "sensitive"
+    },
+    {
+        "text": "Dear HOD, I'm concerned about the safety of my belongings in the college dorms. Could you please provide information on the security measures in place?",
+        "label": "sensitive"
+    },
+    {
+        "text": "Dear HOD, I'm facing financial difficulties and need to request a temporary extension for my tuition fee payment. Could you please guide me through the process?",
+        "label": "sensitive"
+    },
+    {
+        "text": "Dear HOD, I'm experiencing harassment from a fellow student. Could you please provide information on the college's policies and procedures for handling such incidents?",
+        "label": "sensitive"
+    },
+    {
+        "text": "Dear HOD, I'm concerned about my mental health and would like to request a leave of absence. Could you please guide me through the process and provide information on available support resources?",
+        "label": "sensitive"
+    },
+    {
+        "text": "Dear HOD, I've lost my student ID card. Could you please assist me in getting a replacement?",
+        "label": "sensitive"
+    },
+    {
+        "text": "Dear HOD, I've had a change in my address. Could you please update my information in the college records?",
+        "label": "sensitive"
+    },
+    {
+        "text": "Dear HOD, I'm facing issues with my academic performance. Could you please connect me with a counselor to discuss my options?",
+        "label": "sensitive"
+    },
+    {
+        "text": "Dear HOD, I've been involved in an accident on campus. Could you please provide information on the college's insurance coverage?",
+        "label": "sensitive"
+    },
+    {
+        "text": "Dear HOD, I'm concerned about the safety of my belongings in the college dorms. Could you please provide information on the security measures in place?",
+        "label": "sensitive"
+    },
+    {
+        "text": "Dear HOD, I'm facing financial difficulties and need to request a temporary extension for my tuition fee payment. Could you please guide me through the process?",
+        "label": "sensitive"
+    },
+    {
+        "text": "Dear HOD, I'm experiencing harassment from a fellow student. Could you please provide information on the college's policies and procedures for handling such incidents?",
+        "label": "sensitive"
+    },
+    {
+        "text": "Dear HOD, I'm concerned about my mental health and would like to request a leave of absence. Could you please guide me through the process and provide information on available support resources?",
+        "label": "sensitive"
+    },
+    {
+        "text": "Dear HOD, I've lost my student ID card. Could you please assist me in getting a replacement?",
+        "label": "sensitive"
+    },
+    {
+        "text": "Dear HOD, I've had a change in my address. Could you please update my information in the college records?",
+        "label": "sensitive"
+    },
+    {
+        "text": "Dear HOD, I'm facing issues with my academic performance. Could you please connect me with a counselor to discuss my options?",
+        "label": "sensitive"
+    },
+    {
+        "text": "Dear HOD, I've been involved in an accident on campus. Could you please provide information on the college's insurance coverage?",
+        "label": "sensitive"
+    },
+    {
+        "text": "Dear HOD, I'm concerned about my personal safety on campus. Could you please inform me about the security measures in place?",
+        "label": "sensitive"
+    },
+    {
+        "text": "Dear HOD, I'm facing financial difficulties and need to request a temporary extension for my tuition fee payment. Could you please guide me through the process?",
+        "label": "sensitive"
+    },
+    {
+        "text": "Dear HOD, I'm experiencing harassment from a fellow student. Could you please provide information on the college's policies and procedures for handling such incidents?",
+        "label": "sensitive"
+    },
+    {
+        "text": "Dear HOD, I'm concerned about my mental health and would like to request a leave of absence. Could you please guide me through the process and provide information on available support resources?",
+        "label": "sensitive"
+    },
+    {
+        "text": "Dear HOD, I've lost my student ID card. Could you please assist me in getting a replacement?",
+        "label": "sensitive"
+    },
+    {
+        "text": "Dear HOD, I've had a change in my address. Could you please update my information in the college records?",
+        "label": "sensitive"
+    },
+    {
+        "text": "Dear HOD, I'm facing issues with my academic performance. Could you please connect me with a counselor to discuss my options?",
+        "label": "sensitive"
+    },
+    {
+        "text": "Dear HOD, I've been involved in an accident on campus. Could you please provide information on the college's insurance coverage?",
+        "label": "sensitive"
+    },
+    {
+        "text": "Dear HOD, I'm concerned about the safety of my belongings in the college dorms. Could you please provide information on the security measures in place?",
+        "label": "sensitive"
+    },
+    {
+        "text": "Dear HOD, I'm facing financial difficulties and need to request a temporary extension for my tuition fee payment. Could you please guide me through the process?",
+        "label": "sensitive"
+    },
+    {
+        "text": "Dear HOD, I'm experiencing harassment from a fellow student. Could you please provide information on the college's policies and procedures for handling such incidents?",
+        "label": "sensitive"
+    },
+    {
+        "text": "Dear HOD, I'm concerned about my mental health and would like to request a leave of absence. Could you please guide me through the process and provide information on available support resources?",
+        "label": "sensitive"
+    },
+    {
+        "text": "Dear HOD, I've lost my student ID card. Could you please assist me in getting a replacement?",
+        "label": "sensitive"
+    },
+    {
+        "text": "Dear HOD, I've had a change in my address. Could you please update my information in the college records?",
+        "label": "sensitive"
+    },
+    {
+        "text": "Dear HOD, I'm facing issues with my academic performance. Could you please connect me with a counselor to discuss my options?",
+        "label": "sensitive"
+    },
+    {
+        "text": "Dear HOD, I've been involved in an accident on campus. Could you please provide information on the college's insurance coverage?",
+        "label": "sensitive"
+    },
+    {
+        "text": "Dear HOD, I'm concerned about the safety of my belongings in the college dorms. Could you please provide information on the security measures in place?",
+        "label": "sensitive"
+    },
+    {
+        "text": "Dear HOD, I'm facing financial difficulties and need to request a temporary extension for my tuition fee payment. Could you please guide me through the process?",
+        "label": "sensitive"
+    },
+    {
+        "text": "Dear HOD, I'm experiencing harassment from a fellow student. Could you please provide information on the college's policies and procedures for handling such incidents?",
+        "label": "sensitive"
+    },
+    {
+        "text": "Dear HOD, I'm concerned about my mental health and would like to request a leave of absence. Could you please guide me through the process and provide information on available support resources?",
+        "label": "sensitive"
+    },
+    {
+        "text": "Dear HOD, I've lost my student ID card. Could you please assist me in getting a replacement?",
+        "label": "sensitive"
+    },
+    {
+        "text": "Dear HOD, I've had a change in my address. Could you please update my information in the college records?",
+        "label": "sensitive"
+    },
+    {
+        "text": "Dear HOD, I'm facing issues with my academic performance. Could you please connect with a counselor to discuss my options?",
+        "label": "sensitive"
+    },
+    {
+        "text": "Dear HOD, I've been involved in an accident on campus. Could you please provide information on the college's insurance coverage?",
+        "label": "sensitive"
+    },
+    {
+        "text": "Dear HOD, I'm concerned about the safety of my belongings in the college dorms. Could you please provide information on the security measures in place?",
+        "label": "sensitive"
+    },
+    {
+        "text": "Dear HOD, I'm facing financial difficulties and need to request a temporary extension for my tuition fee payment. Could you please guide me through the process?",
+        "label": "sensitive"
+    },
+    {
+        "text": "Dear HOD, I'm experiencing harassment from a fellow student. Could you please provide information on the college's policies and procedures for handling such incidents?",
+        "label": "sensitive"
+    },
+    {
+        "text": "Dear HOD, I'm concerned about my mental health and would like to request a leave of absence. Could you please guide me through the process and provide information on available support resources?",
+        "label": "sensitive"
+    },
+    {
+        "text": "Dear HOD, I've lost my student ID card. Could you please assist me in getting a replacement?",
+        "label": "sensitive"
+    }
+]

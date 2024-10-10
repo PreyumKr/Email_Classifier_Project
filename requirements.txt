@@ -9,3 +9,4 @@ evaluate
 transformers
 streamlit
 faiss-cpu
+sentence-transformers

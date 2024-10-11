@@ -25,3 +25,14 @@ Smartsense Assessment Task of Email classification using Fine tuned LLM and a cu
 ### NOTE:
 * The Streamlit wrapper is the final application interface.
 * The other scripts like classifier_training, fine_tune and RAG_reply are scripts involved during the development of the final interface and fine-tuned models.
+
+### Some of the results are shown below
+
+![Results](Result_Images\Result1.png)
+
+![Results](Result_Images\Result2.png)
+
+![Results](Result_Images\Result3.png)
+
+![Results](Result_Images\Result4.png)
+

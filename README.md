@@ -17,7 +17,9 @@ Smartsense Assessment Task of Email classification using Fine tuned LLM and a cu
 
 ### Running through dockerfile
 * Run the command ```docker build -t email_classifier_app .```
-* Then redirect the port while running the docker image using ```docker run -p 8501:8501 email_classifier_app```
+* Run the docker container from the repository directory.
+* Open the container in interactive mode and redirect the port while running the docker image using ```docker run -it -p 8501:8501 -v ${PWD}:/app -w /app email_classifier_app /bin/bash```
+* The container will open in interactive mode. Now run the command ```streamlit run StreamlitApp_Wrapper.py```
 * The streamlit hosted app can be seen at the link ```http://localhost:8501```
 
 ### NOTE:

@@ -13,3 +13,9 @@ Smartsense Assessment Task of Email classification using Fine tuned LLM and a cu
 * Download the safetensors for the models and put it in the right place.
 * Install the requirements using ```pip install -r requirements.txt```
 * Then run the streamlit app wrapper using ```streamlit run StreamlitApp_Wrapper.py```
+* The terminal will show various localhost and LAN networks from where you can access the streamlit hosted app.
+
+### Running through dockerfile
+* Run the command ```docker build -t email_classifier_app .```
+* Then redirect the port while running the docker image using ```docker run -p 8501:8501 email_classifier_app```
+* The streamlit hosted app can be seen at the link ```http://localhost:8501```

@@ -8,3 +8,8 @@ Smartsense Assessment Task of Email classification using Fine tuned LLM and a cu
 * Mainly add the safetensors from the link inside the repository files.
 * The requirements.txt is given to install the pip packages.
 * The docker image is also given to run the app directly but the saved models need to be downloaded.
+
+### Direct usage through repository
+* Download the safetensors for the models and put it in the right place.
+* Install the requirements using ```pip install -r requirements.txt```
+* Then run the streamlit app wrapper using ```streamlit run StreamlitApp_Wrapper.py```

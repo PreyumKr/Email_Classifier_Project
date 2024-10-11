@@ -30,9 +30,9 @@ Smartsense Assessment Task of Email classification using Fine tuned LLM and a cu
 
 ![Results](./Result_Images/Result1.png)
 
-![Results](Result_Images\Result2.png)
+![Results](./Result_Images/Result2.png)
 
-![Results](Result_Images\Result3.png)
+![Results](./Result_Images/Result3.png)
 
-![Results](Result_Images\Result4.png)
+![Results](./Result_Images/Result4.png)
 
